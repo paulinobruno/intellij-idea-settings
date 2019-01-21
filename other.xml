@@ -1,0 +1,26 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="INTENTION_FILTER_HISTORY" value="Test" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="find&#10;window&#10;project&#10;maximi&#10;maxi" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="plug&#10;settin&#10;Test&#10;startup&#10;shell" />
+    <property name="TrendingPluginsSearchHistory" value="settings&#10;git&#10;lombok&#10;key" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.gist.reindex.count" value="148" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="lastTip" value="12" />
+    <property name="learn.toolwindow.button.info.shown" value="true" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+  </component>
+</application>
