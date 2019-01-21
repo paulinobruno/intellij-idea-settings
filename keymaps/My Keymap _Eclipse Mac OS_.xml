@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+<keymap version="1" name="My Keymap (Eclipse Mac OS)" parent="Eclipse (Mac OS X)">
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
