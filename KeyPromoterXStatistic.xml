@@ -30,7 +30,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -39,6 +39,14 @@
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Reformat Code</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename File...">
+        <Item>
+          <IdeaActionID>RenameFile</IdeaActionID>
+          <ShortCut>'⌥⇧⌘R'</ShortCut>
+          <Description>Rename File...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
