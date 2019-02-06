@@ -75,6 +75,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
+          <Description>Build</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
