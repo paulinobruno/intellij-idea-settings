@@ -2,5 +2,8 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="TodoViewGroupByFlattenPackage" />
 </keymap>
