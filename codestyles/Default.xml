@@ -1,1 +1,5 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="TYPE_ANNOTATION_IMPLICIT_MODIFIER" value="false" />
+  </ScalaCodeStyleSettings>
+</code_scheme>
