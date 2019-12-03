@@ -34,5 +34,23 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="scala-sdk-2.13.0" type="Scala">
+      <properties>
+        <language-level>Scala_2_13</language-level>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.sdkman/candidates/scala/2.13.0/lib/scala-reflect.jar" />
+          <root url="file://$USER_HOME$/.sdkman/candidates/scala/2.13.0/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/.sdkman/candidates/scala/2.13.0/lib/scala-compiler.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.13.0/lib/scala-reflect.jar!/" />
+        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.13.0/lib/scala-library.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="https://www.scala-lang.org/api/2.13.0/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
   </component>
 </application>
